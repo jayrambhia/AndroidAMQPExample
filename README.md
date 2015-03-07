@@ -26,3 +26,5 @@ A naive Python implementation of the server is provided. As this is just a demo 
 ### Client
 
     python receive_group_messages.py <some_group> <another_group> ..
+
+![alt tag](https://raw.githubusercontent.com/jayrambhia/AndroidAMQPExample/master/screenshots/Screenshot_2015-03-07-15-41-51.png)
